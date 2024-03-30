@@ -1,0 +1,36 @@
+Course outline
+Introduction
+  Introduction
+  Basics of Foundation Models
+  Fundamentals of Prompt Engineering
+  
+Prompt Types and Techniques
+  Basic Prompt Techniques
+  Advanced Prompt Techniques
+  Model-Specific Prompt Techniques
+  Addressing Prompt Misuses
+  Mitigating Bias
+Conclusion
+  Course Summary
+
+Foundational Models(self-supervised learning and finetuning):
+1. text-to-text model 
+2. text-to-image model
+
+
+Basic Prompt Techniques:
+	zero-shot 
+	few-shot prompting techniques
+	chain-of-thought (CoT) prompting
+
+Advanced Prompt Techniques
+	Self Consistency, 
+	Tree of Thoughts, 
+	Retrieval augmented generation (RAG), 
+	Automatic Reasoning and Tool-use (ART) 
+	Reasoning and Acting (ReAct).
+
+Model-specific Prompt Techniques:
+	Amazon Titan, 
+	Anthropic Claude, 
+	AI21 Labs Jurassic-2
